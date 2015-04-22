@@ -1,2 +1,2 @@
 # ComponentEntitySystem
-Example of usin component entity system on c++
+Example of using component entity system on c++
